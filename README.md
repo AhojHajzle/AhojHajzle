@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning C
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhojHajzle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhojHajzle)](https://github.com/anuraghazra/github-readme-stats)
