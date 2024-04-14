@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="my stats" align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=AhojHajzle"/>
+<img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=AhojHajzle"/>
